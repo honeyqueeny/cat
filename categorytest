@@ -2,45 +2,45 @@
     {
     "store_name":"flipkart",
     "Category":"electrnics",
-    "storeimg-name": "flipkart.png",
-    "storeimg-url": "flipkart.png",
+    "storeimg-name": "flipkart_small%20(1).png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 8% Rewards"
     },
     {
     "store_name":"mothersparsh",
     "Category":"baby",
-    "storeimg-name": "mothersparsh.png",
-    "storeimg-url": "flipkart.png",
+    "storeimg-name": "mothersparsh_Logo_Small%20(1).png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 4% Cashback"
     },
     {
     "store_name":"ajio",
-    "Category":"fashion",
-    "storeimg-name": "ajio.png",
-    "storeimg-url": "flipkart.png",
+    "Category":"fashion", 
+    "storeimg-name": "ajio_small.png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 1% Cashback"
     },
     {
     "store_name":"myntra",
     "Category":"beauty",
-    "storeimg-name": "myntra.png",
-    "storeimg-url": "flipkart.png",
+    "storeimg-name": "myntra_small%20(1).png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 7% Cashback"
     },
     {
     "store_name":"boat",
     "Category":"mobile",
-    "storeimg-name": "boat.png",
-    "storeimg-url": "flipkart.png",
+    "storeimg-name": "boat_Logo_Small%20(1).png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 3% Cashback"
     },
     {
     "store_name":"swiggy",
     "Category":"food",
-    "storeimg-name": "swiggy.png",
-    "storeimg-url": "flipkart.png",
+    "storeimg-name": "swiggy_small.png",
+    "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/",
     "cashback-amt": "Upto 3% Cashback"
-    },
+    }
     
     ]
 

@@ -1,80 +1,87 @@
 {   "data":[
     {
     "store_name":"flipkart",
-    "Category":"electrnics",
+    "Category":"Electrnics",
     "storeimg-name": "flipkart_small%20(1).png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 8% Rewards"
     },
     {
     "store_name":"mothersparsh",
-    "Category":"baby",
+    "Category":"Baby",
     "storeimg-name": "mothersparsh_Logo_Small%20(1).png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 4% Cashback"
     },
     {
     "store_name":"ajio",
-    "Category":"fashion", 
+    "Category":"Fashion", 
     "storeimg-name": "ajio_small.png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 1% Cashback"
     },
     {
     "store_name":"myntra",
-    "Category":"beauty",
+    "Category":"Beauty",
     "storeimg-name": "myntra_small%20(1).png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 7% Cashback"
     },
     {
     "store_name":"boat",
-    "Category":"mobile",
+    "Category":"Mobile",
     "storeimg-name": "boat_Logo_Small%20(1).png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 3% Cashback"
     },
     {
     "store_name":"swiggy",
-    "Category":"food",
+    "Category":"Food",
     "storeimg-name": "swiggy_small.png",
     "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
     "cashback-amt": "Upto 9% Cashback"
     },
     {
         "store_name":"mamaearth",
-        "Category":"kids",
+        "Category":"Kids",
         "storeimg-name": "mamaearth_small.png",
         "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
         "cashback-amt": "Upto 12% Cashback"
     },
     {
             "store_name":"zivame",
-            "Category":"fashion",
+            "Category":"Fashion",
             "storeimg-name": "zivame_small%20(1).png",
             "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
             "cashback-amt": "Upto 2% Cashback"
     },
     {
         "store_name":"tatacliq",
-        "Category":"electronics",
+        "Category":"Electronics",
         "storeimg-name": "tatacliq_Logo_Small.png",
         "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
         "cashback-amt": "Upto 7% Cashback"
      },
     {
             "store_name":"freshtohome",
-            "Category":"food",
+            "Category":"Food",
             "storeimg-name": "freshtohome_small%20(1).png",
             "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
             "cashback-amt": "Upto 8% Cashback"
      },
      {
         "store_name":"firstcry",
-        "Category":"baby",
+        "Category":"Baby",
         "storeimg-name": "firstcry_small%20(1).png",
         "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
         "cashback-amt": "Upto 2% Cashback"
+    },
+    {
+        "store_name":"oziva",
+        "Category":"Finance",
+        "storeimg-name": "firstcry_small%20(1).png",
+        "storeimg-url": "https://github.com/honeyqueeny/cat/blob/newcat/Categoryimg/",
+        "cashback-amt": "Upto 18% Cashback"
     }
      
     

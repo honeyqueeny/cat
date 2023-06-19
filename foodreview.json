@@ -84,7 +84,7 @@
             {
                 "User_Img": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
                 "product_Description": "Now let's talk about the food! Every dish I tried was a true delight. The flavors were exquisite, and the presentation was top-notch. The menu offered a great variety of options, and the quality of ingredients was evident in every bite. It's clear that the chefs put a lot of care and skill into their creations.",
-                "review_Type": ["Good Service","Good Places",],
+                "review_Type": ["Good Service","Good Places"],
                 "user_Name": "James",
                 "user_RoleDate": "Marketing Manager 1 June 2023",
                 "user_Rating": "4.5",
@@ -92,7 +92,7 @@
             {
                 "User_Img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1687155721~exp=1687156321~hmac=0676af6ff0021c679a950ecb3ec4eb98aaa7d723a90bd75e785234956c5e7cd1",
                 "product_Description": "To top it all off, the attention to detail and the little extras made the experience truly memorable. From the complimentary bread basket to the personalized dessert surprise for a special occasion, they went above and beyond to make us feel valued as customers.",
-                "review_Type": ["Good Service","Good Places",],
+                "review_Type": ["Good Service","Good Places"],
                 "user_Name": "William",
                 "user_RoleDate": "UX Designer 8 Apr 2023",
                 "user_Rating": "4.3",
